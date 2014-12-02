@@ -16,3 +16,6 @@ This is a responsive, table based, email template.
 	
 ##Download, Fork, Commit.
 Please download, fork and submit if you feel you can make this better and more solid.
+
+####Content
+Artwork and content from the amazing designer Drew Bardana's.
